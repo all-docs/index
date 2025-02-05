@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <doc name="javascript">
+  <title>JavaScript programming language</title>
+  <url>https://github.com/all-docs/javascript/archive/refs/heads/main.zip</url>
+ </doc>
+ <doc name="css">
+  <title>CSS - Cascading Style Sheets</title>
+  <url>https://github.com/all-docs/css/archive/refs/heads/main.zip</url>
+ </doc>
+ <doc name="html">
+  <title>HTML - Hyper Text Markup Language</title>
+  <url>https://github.com/all-docs/html/archive/refs/heads/main.zip</url>
+ </doc>
+ <doc name="libxml2">
+  <title>libxml2 - XML library in C</title>
+  <url>https://github.com/all-docs/libxml2/archive/refs/heads/main.zip</url>
+ </doc>
+ <doc name="gobject">
+  <title>GObject - library for object oriented programming in C</title>
+  <url>https://github.com/all-docs/gobject/archive/refs/heads/main.zip</url>
+ </doc>
+ <doc name="glib">
+  <title>GLib - library with data structures and utilities in C</title>
+  <url>https://github.com/all-docs/glib/archive/refs/heads/main.zip</url>
+ </doc>
+ <doc name="gio">
+  <title>Gio - C library for I/O, networking, IPC, etc.</title>
+  <url>https://github.com/all-docs/gio/archive/refs/heads/main.zip</url>
+ </doc>
+ <doc name="cpp">
+  <title>C++ programming language</title>
+  <url>https://github.com/all-docs/libxml2/archive/refs/heads/main.zip</url>
+ </doc>
+ <doc name="c">
+  <title>C programming language</title>
+  <url>https://github.com/all-docs/libxml2/archive/refs/heads/main.zip</url>
+ </doc>
+</root>
