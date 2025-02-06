@@ -30,10 +30,10 @@
  </doc>
  <doc name="cpp">
   <title>C++ programming language</title>
-  <url>https://github.com/all-docs/libxml2/archive/refs/heads/main.zip</url>
+  <url>https://github.com/all-docs/cpp/archive/refs/heads/main.zip</url>
  </doc>
  <doc name="c">
   <title>C programming language</title>
-  <url>https://github.com/all-docs/libxml2/archive/refs/heads/main.zip</url>
+  <url>https://github.com/all-docs/c/archive/refs/heads/main.zip</url>
  </doc>
 </root>
