@@ -36,4 +36,8 @@
   <title>C programming language</title>
   <url>https://github.com/all-docs/c/archive/refs/heads/main.zip</url>
  </doc>
+ <doc name="ciwetweb">
+  <title>Embedded C/C++ web server</title>
+  <url>https://github.com/all-docs/civetweb/archive/refs/heads/main.zip</url>
+ </doc>
 </root>
