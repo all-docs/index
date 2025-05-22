@@ -40,4 +40,8 @@
   <title>Civetweb - Embedded C/C++ web server</title>
   <url>https://github.com/all-docs/civetweb/archive/refs/heads/main.zip</url>
  </doc>
+ <doc name="http">
+  <title>HTTP - Hypertext Transfer Protocol</title>
+  <url>https://github.com/all-docs/http/archive/refs/heads/main.zip</url>
+ </doc>
 </root>
