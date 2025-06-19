@@ -44,4 +44,8 @@
   <title>HTTP - Hypertext Transfer Protocol</title>
   <url>https://github.com/all-docs/http/archive/refs/heads/main.zip</url>
  </doc>
+ <doc name="sqlite">
+  <title>SQLite - SQL database engine</title>
+  <url>https://github.com/all-docs/sqlite/archive/refs/heads/main.zip</url>
+ </doc>
 </root>
