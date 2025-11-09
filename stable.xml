@@ -28,6 +28,10 @@
   <title>Gio - C library for I/O, networking, IPC, etc.</title>
   <url>https://github.com/all-docs/gio/archive/refs/heads/main.zip</url>
  </doc>
+ <doc name="go">
+  <title>Go programming language</title>
+  <url>https://github.com/all-docs/go/archive/refs/heads/main.zip</url>
+ </doc>
  <doc name="cpp">
   <title>C++ programming language</title>
   <url>https://github.com/all-docs/cpp/archive/refs/heads/main.zip</url>
