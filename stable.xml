@@ -30,7 +30,7 @@
  </doc>
  <doc name="go">
   <title>Go programming language</title>
-  <url>https://github.com/all-docs/go/archive/refs/heads/main.zip</url>
+  <url>https://github.com/all-docs/go/releases/download/v1.1/go-1.1.zip</url>
  </doc>
  <doc name="cpp">
   <title>C++ programming language</title>
