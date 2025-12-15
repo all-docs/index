@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
  <doc name="javascript">
-  <title>JavaScript programming language</title>
+  <title>JavaScript</title>
   <url>https://github.com/all-docs/javascript/archive/refs/heads/main.zip</url>
   <icon>https://developer.mozilla.org/favicon.ico</icon>
  </doc>
  <doc name="css">
-  <title>CSS - Cascading Style Sheets</title>
+  <title>CSS</title>
   <url>https://github.com/all-docs/css/archive/refs/heads/main.zip</url>
   <icon>https://developer.mozilla.org/favicon.ico</icon>
  </doc>
  <doc name="html">
-  <title>HTML - Hyper Text Markup Language</title>
+  <title>HTML</title>
   <url>https://github.com/all-docs/html/archive/refs/heads/main.zip</url>
   <icon>https://developer.mozilla.org/favicon.ico</icon>
  </doc>
  <doc name="libxml2">
-  <title>libxml2 - XML library in C</title>
+  <title>libxml2</title>
   <url>https://github.com/all-docs/libxml2/archive/refs/heads/main.zip</url>
  </doc>
  <doc name="gobject">
-  <title>GObject - library for object oriented programming in C</title>
+  <title>GObject</title>
   <url>https://github.com/all-docs/gobject/archive/refs/heads/main.zip</url>
  </doc>
  <doc name="glib">
-  <title>GLib - library with data structures and utilities in C</title>
+  <title>GLib</title>
   <url>https://github.com/all-docs/glib/archive/refs/heads/main.zip</url>
  </doc>
  <doc name="gio">
-  <title>Gio - C library for I/O, networking, IPC, etc.</title>
+  <title>Gio</title>
   <url>https://github.com/all-docs/gio/archive/refs/heads/main.zip</url>
  </doc>
  <doc name="go">
-  <title>Go programming language</title>
+  <title>Go</title>
   <url>https://github.com/all-docs/go/releases/download/v1.1/go-1.1.zip</url>
   <icon>https://go.dev/images/favicon-gopher.png</icon>
  </doc>
  <doc name="cpp">
-  <title>C++ programming language</title>
+  <title>C++</title>
   <url>https://github.com/all-docs/cpp/archive/refs/heads/main.zip</url>
   <icon>https://en.cppreference.com/favicon.ico</icon>
  </doc>
  <doc name="c">
-  <title>C programming language</title>
+  <title>C</title>
   <url>https://github.com/all-docs/c/archive/refs/heads/main.zip</url>
  </doc>
  <doc name="ciwetweb">
-  <title>Civetweb - Embedded C/C++ web server</title>
+  <title>Civetweb</title>
   <url>https://github.com/all-docs/civetweb/archive/refs/heads/main.zip</url>
  </doc>
  <doc name="http">
-  <title>HTTP - Hypertext Transfer Protocol</title>
+  <title>HTTP</title>
   <url>https://github.com/all-docs/http/archive/refs/heads/main.zip</url>
   <icon>https://developer.mozilla.org/favicon.ico</icon>
  </doc>
  <doc name="sqlite">
-  <title>SQLite - SQL database engine</title>
+  <title>SQLite</title>
   <url>https://github.com/all-docs/sqlite/archive/refs/heads/main.zip</url>
   <icon>https://www.sqlite.org/favicon.ico</icon>
  </doc>
